@@ -1,4 +1,4 @@
-# water_tap
+# Smart Water Tap
 
 A new Flutter project.
 
